@@ -1,0 +1,18 @@
+.text-input
+{
+-fx-text-fill : #fff;
+}
+.radio-color
+{
+-fx-mark-highlight-color : #9643A9;
+-fx-mark-color : #CE201C;
+}
+.btn {
+    -fx-background-color: #aaa;
+}
+.btn:hover {
+    -fx-background-color: #ccc;
+}
+.active{
+    -fx-background-color: #bbb;
+}
